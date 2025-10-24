@@ -3,5 +3,6 @@ package Codelab1;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
+        System.out.println("Welcome to Modul 3 Codelab!");
     }
 }
